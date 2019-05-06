@@ -1,0 +1,2 @@
+#IAM Role
+IAM_EXECUTION_ROLE: arn:aws:iam::575789547500:role/lambda_basic_execution
